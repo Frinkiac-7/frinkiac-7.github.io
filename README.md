@@ -1,15 +1,9 @@
-![F7 Logo](http://frinkiac-7.net/images/f7-pos.png "My own logo")
+![F7 Logo](http://frinkiac-7.net/images/f7-pos.png "F7 logo")
 
-# Header1
+# Portfolio repository
+Graduate of General Assembly's Web Development Immersive program
 
-
-## Header2
-
-
-### Header3
-
-## [License](LICENSE)
-
-1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
-1.  All software code is licensed under GNU GPLv3. For commercial use or
-    alternative licensing, please contact legal@ga.co.
+## Links
+Portfolio:  https://frinkiac-7.github.io
+LinkedIn:  https://www.linkedin.com/in/robert0garcia/
+ELMAG Aerial:  http://elmag-aerial.com
